@@ -9,7 +9,7 @@ Rakenduse paigaldamiseks vajalikud sammud:
 6. Teha npm install
 7. Käivitada rakenduse front-endi pool käsuga npm start.
 
-Rakenduse front-end on kirjutatud reacti raamistikus typescriptis ja backend C#-s. 
+Rakenduse front-end on kirjutatud typescriptis reacti raamistikus ja backend C#-s. 
 Rakendus töötab hästi välja arvatud Open AI kommentaari genereerimine, sest mul endal tellimust ostetud ei ole sinna ja tasuta krediidi jõudsin ära kasutada.
 Kui on soov enda Open AI võtmega kommentaari genereerimist testida, siis tuleb WebApp projektis avada appsettings.json fail, read 9-11 uncommentida ja oma võti jutumärkide vahele lisada.
 
