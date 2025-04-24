@@ -1,0 +1,6 @@
+export const MAKSUD = {
+    TULUMAKS: 0.2,
+    SOTSIAALMAKS: 0.33,
+    TÖÖTAJATÖÖTUSKINDLUSTUS: 0.016,
+    TÖÖANDJATÖÖTUSKINDLUSTUS: 0.008,
+};
